@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @Muhammad-usman92
 - 👀 I’m interested in front and back-end developing
-- 🌱 I’m currently learning Flutter
+- 🌱 I’m currently learning React js 
+- 
 - �
 - 📫 How to reach me.Email me on Kusman2560@gmail.com
 
