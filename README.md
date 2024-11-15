@@ -4,7 +4,7 @@
 
 [![website](./img/linkedin.svg)](https://www.linkedin.com/in/muhammad-usman-2851091b8/)
 
-## I'm a Jr.Full Stack-Developer. ReactJs,NodeJs,SQL,Typescript !!
+## I'm a Full Stack-Developer. ReactJs,NodeJs,SQL,Typescript !!
 
 - 🌱 I’m currently learning Typescript.
 - 👯 I’m looking to collaborate with other Full Stack Developers.
